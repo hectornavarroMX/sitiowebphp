@@ -17,13 +17,13 @@
 				<a class="nav-link" href="#">Logo</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Inicio</a>
+				<a class="nav-link" href="index.php">Inicio</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Libros</a>
+				<a class="nav-link" href="productos.php">Libros</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Nosotros</a>
+				<a class="nav-link" href="nosotros.php">Nosotros</a>
 			</li>
 		</ul>
 	</nav>
